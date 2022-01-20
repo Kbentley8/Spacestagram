@@ -7,7 +7,12 @@ I really enjoyed creating this project, I have had a bit of experience using Rea
 
 # Technologies used
 
-Node.js
-Npm
-React
-NASA APOD (Astronomy Picture of the Day) Api
+- Node.js
+- Npm
+- React
+- NASA APOD (Astronomy Picture of the Day) Api
+
+
+# Link to Deployed App
+Link to Deployed app on Github Pages : [Spacestagram](https://kbentley8.github.io/Spacestagram/)
+
