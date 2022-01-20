@@ -1,0 +1,48 @@
+.card {
+    background-color: #F0F2FA;
+    box-shadow: 0 3rem 6rem rgba(0, 0, 0, .1);
+    width: 28vw;
+    height: 72vh;
+    padding: 20px
+  }
+  
+  img {
+    border-radius: 10px;
+    width: 100%;
+    height: 45vh
+  }
+  
+  .heart {
+    font-size: 35px;
+    float: left;
+    margin-top: 10px
+  }
+  
+  @media screen and (max-width: 1024px) {
+    .card {
+      width: 40vw;
+      margin-left: 20px
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    .card {
+      margin-left: 9px;
+      height: 80vh
+    }
+  }
+  
+  @media screen and (max-width: 425px) {
+    .card {
+      margin-left: 15px;
+      height: 80vh;
+      width: 80vw
+    }
+  }
+  
+  @media screen and (max-width: 320px) {
+    .card {
+      margin-left: 10px;
+      width: 80vw
+    }
+  }
